@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Car Price Analysis Dashboard
+# 🚀 AI-Powered Car Analysis Dashboard
 
 ## 📌 Project Overview
 
